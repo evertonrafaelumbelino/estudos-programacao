@@ -1,0 +1,59 @@
+{
+  "name": "Everton Rafael Umbelino dos Santos",
+  "photo": "https://avatars.githubusercontent.com/u/169084381?s=400&u=14a40c1e83b375df3071af9c09b3849de0c39f15&v=4",
+  "job": "Não trabalho no momento",
+  "location": "Guapirama - PR",
+  "phone": "(43) 9187-8213",
+  "email": "evertonrafaelumbelino@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/evertonrafaelumbelino/curso-javascript/refs/heads/main/portifolio/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/evertonrafaelumbelino/curso-javascript/refs/heads/main/portifolio/data/imgs/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/evertonrafaelumbelino/curso-javascript/refs/heads/main/portifolio/data/imgs/js.png"
+      }
+    ],
+    "softSkills": [
+      "Facilidade de comunicação",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso de HTML5 e CSS3 do Curso em Video",
+      "url": "https://github.com/evertonrafaelumbelino/html-css",
+      "github": true
+    },
+    {
+      "name": "Curso de JavaScript da DIO",
+      "url": "https://github.com/evertonrafaelumbelino/curso-javascript",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Projetos e exercícios no curso de HTML5 e CSS3 do Curso em Video",
+      "period": "2023",
+      "description": "Foi um aprendizado ótimo para minha carreira de programação"
+    },
+    {
+      "name": "Projetos e exercícios no curso de JavaScript na DIO",
+      "period": "2024 - até o momento",
+      "description": "Algo muito interessante de se aprender, e executar comandos na prática"
+    }
+  ]
+}

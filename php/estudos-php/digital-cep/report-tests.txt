@@ -1,0 +1,4 @@
+pSearch
+ [x] Get adress from zipcode default usage with data set "Endereço Praça da Sé"
+ [x] Get adress from zipcode default usage with data set "Endereço Qualquer"
+
