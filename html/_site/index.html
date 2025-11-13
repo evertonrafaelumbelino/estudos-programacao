@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página principal</title>
+    <title>Formulário de Contato</title>
 </head>
 <body>
-    <h1>Meu primeiro site</h1>
-    <ul>
-        <li>
-            <a href="about.html" title="Clique aqui e confira" target="_blank">Sobre a empresa</a>
-        </li>
-    </ul>
+    <form name="signup" onsubmit="alert('Enviei o formulário')" autocomplete="on" target="_blank" method="post" action="#">
+        Nome: <input type="text" name="name" id="name"><br>
+        Idade: <input type="number" name="age" id="age"><br>
+        Senha: <input type="password" name="senha" id="senha"><br>
+        <button type="submit">Enviar</button>
+    </form>
 </body>
 </html>
